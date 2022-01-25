@@ -38,7 +38,7 @@ else{
     console.log("ERRO! DIGITE ENTRE [1] E [2]!!!");
 }
    
-}while(ctl!==1);
+}while(ctl<1);
 
 
 do{ ///////////////TELA 2 /////////////
@@ -68,7 +68,7 @@ if(ctl_r==1){////////CONDIÇÃO POSITIVA////////////
     console.log("ERRO! DIGITE ENTRE [1] E [2]!!!");
 }
 
-}while(ctl==!1); ////lIBERAÇÃO PARA A PRÓXIMA TELA////
+}while(ctl<1); ////lIBERAÇÃO PARA A PRÓXIMA TELA////
 
 
 do{ ///////////////TELA 3 /////////////
@@ -95,7 +95,7 @@ if(ctl_r==1){////////CONDIÇÃO POSITIVA////////////
     console.log("ERRO! DIGITE ENTRE [1] E [2]!!!");
 }
 
-}while(ctl==!1); //lIBERAÇÃO PARA A PRÓXIMA TELA//
+}while(ctl<1); //lIBERAÇÃO PARA A PRÓXIMA TELA//
 
 
 do{ ///////////////TELA 4 /////////////
@@ -128,7 +128,7 @@ if(ctl_r==1){////////CONDIÇÃO POSITIVA////////////
     console.log("ERRO! DIGITE ENTRE [1] E [2]!!!");
 }
 
-}while(ctl==!1); ////lIBERAÇÃO PARA A PRÓXIMA TELA////
+}while(ctl<1); ////lIBERAÇÃO PARA A PRÓXIMA TELA////
 
 
 do{ ///////////////TELA 5 /////////////
@@ -159,7 +159,7 @@ if(ctl_r==1){////////CONDIÇÃO POSITIVA////////////
 }
 console.log("-----------------------------------------------------------------------------------------------");
 
-}while(ctl==!1); ////lIBERAÇÃO PARA A PRÓXIMA TELA////
+}while(ctl<1); ////lIBERAÇÃO PARA A PRÓXIMA TELA////
 
 //////////////////////RESULTADO/////////////////////////
 
