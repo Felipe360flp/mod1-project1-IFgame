@@ -4,7 +4,7 @@ var prompt = require('prompt-sync')();
 
 console.log("-----------------------------------------------------------------------------------------------");
 console.log("Você é um detetive paranormal, e deverá solucionar o caso com base na história.\n");
-console.log("  Você recebeu um chamado, e logo se dirigiu ao local. Quem o recebe é Letícia, a viúva.\n");
+console.log("Você recebeu um chamado, e logo se dirigiu ao local. Quem o recebe é Letícia, a viúva.\n");
 console.log("Após detalhar o caso, o deixa no local da ocorrência, e segue para a casa de um parente.\n");
 console.log("Na casa viviam Letícia e seu esposo, duas filhas e um cachorro.\n");
 console.log("A primeira morte foi do cão, e alguns dias depois o esposo de Letícia.\n");
