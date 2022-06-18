@@ -8,7 +8,7 @@ console.log("Você recebeu um chamado, e logo se dirigiu ao local. Quem o recebe
 console.log("Após detalhar o caso, o deixa no local da ocorrência, e segue para a casa de um parente.\n");
 console.log("Na casa viviam Letícia e seu esposo, duas filhas e um cachorro.\n");
 console.log("A primeira morte foi do cão, e alguns dias depois o esposo de Letícia.\n");
-console.log("O cão foi encotrado morto sem marcas, porém não constava em seu sanguê algum tipo de veneno.\n");
+console.log("O cão foi encotrado morto sem marcas, e não constava em seu sanguê algum tipo de veneno.\n");
 console.log("O Cão era muito querido, mesmo por seu marido, que estava sempre tapando os buracos que o cão\n");
 console.log("fazia em seu jardim.\n");
 console.log("O esposo de Letícia cometeu suicídio após alguns dias da morte do cão.\n");
